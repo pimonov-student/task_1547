@@ -14,4 +14,4 @@ hline 30 700 500
 
 # На выход получаем .BMP картинку:
 
-![result](https://github.com/pimonov-student/task_1547/example_output.bmp)
+![result](https://github.com/pimonov-student/task_1547/blob/master/example_output.bmp)
