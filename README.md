@@ -15,3 +15,11 @@ hline 30 700 500
 # На выход получаем .BMP картинку:
 
 ![result](https://github.com/pimonov-student/task_1547/blob/master/example_output.bmp)
+
+# Как пользоваться
+1. Генерируем файлы в build
+2. Собираем
+3. Непосредственно принцип работы:
+   + внесение изменений в input.txt (/build/bin/debug/input.txt)
+   + запуск через проект в visual studio
+   + результат .bmp картинка в папке build
