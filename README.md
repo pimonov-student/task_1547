@@ -18,7 +18,16 @@ hline 30 700 500
 
 # Как пользоваться
 1. Генерируем файлы в build
+   ```
+   mkdir build
+   cd build
+   cmake ..
+   ```
 2. Собираем
+   ```
+   cd ..
+   cmake --build build
+   ```
 3. Непосредственно принцип работы:
    + внесение изменений в input.txt (/build/bin/debug/input.txt)
    + запуск через проект в visual studio
